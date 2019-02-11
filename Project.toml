@@ -1,0 +1,7 @@
+name = "Example2018"
+uuid = "9d1c2c28-1d0f-11e9-07b0-9dd8528ee61a"
+authors = ["dgutierrez10 <dial.coronel10@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
